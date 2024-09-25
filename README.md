@@ -62,6 +62,36 @@ Ejemplos comunes: `<div>, <p>, <h1>`
 
   
 
-  
+Pregunta 4  
+
+* Explica qué es una regla de estilo y de qué elementos está formada. Pon un ejemplo indicando el 
+nombre de cada elemento:
+
+  En CSS una regla de estilo indica qué elementos se ven afectados y qué propiedades visuales se aplicarán a esos elementos.
+Por ejemplo:
+ `p {
+    color: white;
+    margin: 15px;
+    font-size: 20px;
+}`  
 
 
+  En este ejemplo encontramos las cuatro partes que componen la regla de estilos, se divide en: 
+
+  Selector`p`: Indica que el estilo se aplicará a todos los p (párrafos)
+
+  Propiedad`color`,`margin`,`font-size`: Las cosas que se están modificando, en este caso el color, el margen y el tamaño del párrafo
+
+  Valor`white`,`15px`,`20px`: El valor que se le aplicara a los cambios, en este caso el color blanco y el tamaño del margen y la fuente
+
+
+Pregunta 5
+
+* Utiliza Codepen ( codepen.io ) o Cssdeck ( cssdeck.com ) para hacer las pruebas y la captura de 
+imagen del resultado.
+
+Aquí tienes la lista de selectores:  
+• h1+p  
+• p > em  
+• p em  
+• p:lang(en)  
