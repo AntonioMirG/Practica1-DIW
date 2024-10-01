@@ -1,0 +1,73 @@
+ body {
+     margin: 0;
+     padding: 0;
+     font-family: Georgia, Times, serif;
+     font-size: 16px;
+     background-color: rgb(166, 137, 163);
+ }
+ 
+ .container {
+     width: 90%;
+     
+     max-width: 970px;
+     margin: 0px auto;
+     background-color: white;
+     padding: 20px;
+ }
+
+
+
+ .authorname{
+
+    font-size: 15px;
+ }
+ .blueparagraph {
+     color: rgb(33, 124, 147);
+     font-size: 15px;
+ }
+
+ .maintitle {
+     color: rgb(189, 188, 128);
+
+ }
+
+ .eldebutde {
+     color: rgb(102, 105, 110);
+     font-family: Georgia, Times, serif;
+
+ }
+
+.yellow{
+
+   color: rgb(189, 188, 128); 
+}
+
+ .gris {
+     
+    font-weight: bold;
+     
+ }
+
+
+ .datetime{
+
+    font-size: 10px;
+ }
+
+
+ 
+
+ .footertext {
+
+     color: rgb(189, 188, 128);
+ }
+
+.blueline{
+
+    height: 2px;
+    background-color: rgb(106, 156, 169);
+}
+
+a{
+    text-decoration: none;
+}
