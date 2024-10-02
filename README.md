@@ -95,3 +95,6 @@ Aquí tienes la lista de selectores:
 • p > em  
 • p em  
 • p:lang(en)  
+
+![image](https://github.com/user-attachments/assets/5ee1db72-ea76-4c58-9949-4166aeebeac7)
+
